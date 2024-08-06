@@ -1,56 +1,58 @@
-<div align="center">
-  ## Hi👋, I'm Pradyumna Praveen
-  ### A Passionate Full Stack Developer from India
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VijayendraNayak&label=Profile%20views&color=0e75b6&style=flat" alt="VoidGeek" />
+<h1 align="center">Hi 👋, I'm Pradyumna Praveen</h1>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
+
+<img align="right" alt="coding gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayendranayak&label=Profile%20views&color=0e75b6&style=flat" alt="vijayendranayak" /> </p>
+
+- 👯 I’m looking to collaborate on **Linkedin and fiverr**
+
+- 👨‍💻 All of my projects are available at [https://github.com/VoidGeek](https://github.com/VoidGeek)
+
+- 💬 Ask me about **react, Next, Tailwind**
+
+- 📫 How to reach me **pradyumna.p.6969@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/pradyumna-p-010038231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pradyumna Praveen" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/vijayendranayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Pradyumna Praveen" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/vijayendranayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pradyumna Praveen" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+</p>
 
-👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com) and [Fiverr](https://www.fiverr.com)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayendranayak&show_icons=true&locale=en&layout=compact" alt="vijayendranayak" /></p>
 
-👨‍💻 All of my projects are available at [https://github.com/VoidGeek](https://github.com/VoidGeek)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vijayendranayak&show_icons=true&locale=en" alt="vijayendranayak" /></p>
 
-💬 Ask me about React, Next, Tailwind
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayendranayak" alt="vijayendranayak" /></p>
 
-📫 How to reach me: pradyumna.p.6969@gmail.com
-
----
-
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com)
-[<img align="left" alt="Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />](https://fiverr.com)
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/VoidGeek)
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />](https://getbootstrap.com)
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" />](https://www.djangoproject.com)
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />](https://expressjs.com)
-[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />](https://www.figma.com)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />](https://git-scm.com)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />](https://www.java.com)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />](https://www.linux.org)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />](https://www.mongodb.com)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />](https://www.mysql.com)
-[<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />](https://nextjs.org)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />](https://nodejs.org)
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />](https://www.php.net)
-[<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://www.postman.com)
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />](https://www.python.org)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />](https://reactjs.org)
-[<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" />](https://redux.js.org)
-[<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />](https://tailwindcss.com)
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />](https://www.typescriptlang.org)
-
-<br />
+</body>
+</html>
