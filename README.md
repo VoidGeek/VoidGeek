@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VoidGeek](https://github.com/VoidGeek)
 
-- 💬 Ask me about **react, Next, Tailwind**
+- 🌱 I'm currently learning **React, Next, Tailwind**
 
 - 📫 How to reach me **pradyumna.p.6969@gmail.com**
 
