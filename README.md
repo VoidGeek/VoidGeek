@@ -48,11 +48,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayendranayak&show_icons=true&locale=en&layout=compact" alt="vijayendranayak" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=voidgeek&show_icons=true&locale=en&layout=compact" alt="voidgeek" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vijayendranayak&show_icons=true&locale=en" alt="vijayendranayak" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=voidgeek&show_icons=true&locale=en" alt="voidgeek" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayendranayak" alt="vijayendranayak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=voidgeek" alt="voidgeek" /></p>
 
 </body>
 </html>
