@@ -15,8 +15,6 @@
 
 ### About Me:
 
-### About Me:
-
 - 🚀 Aspiring backend developer, currently specializing in scalable systems, RESTful APIs, and microservices architectures.
 - 🌐 Learning NestJS (not Next.js) with GraphQL to build efficient and reliable backend solutions.
 - 🛠️ Enthusiastic about debugging and solving problems with a focus on optimization and performance.
