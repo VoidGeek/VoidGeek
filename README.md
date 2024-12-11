@@ -2,16 +2,18 @@
 <h3 align="center">Backend Developer | API Architect | Problem Solver</h3>
 
 <div align="center">
-  <img alt="coding gif" width="400" src="https://pbs.twimg.com/media/F-gHNNsbIAAEOaC.png" style="margin: 20px 0;">
+  <img alt="coding gif" width="400" src="https://pbs.twimg.com/media/F-gHNNsbIAAEOaC.png" style="margin: 20px 0; animation: fadeIn 2s ease-in-out 0s forwards; opacity: 0;">
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20px; animation: fadeIn 2s ease-in-out 1s forwards; opacity: 0;">
   <p>
      <img src="https://api.visitorbadge.io/api/VisitorHit?user=voidgeek&repo=github-profile&countColor=%23263759" alt="Visitors Counter" />
   </p>
 </div>
 
 ---
+
+<div style="animation: fadeIn 2s ease-in-out 2s forwards; opacity: 0;">
 
 ### About Me:
 
@@ -20,8 +22,11 @@
 - 🛠️ Strong in debugging and problem-solving, with a focus on optimization and performance.
 - 💬 Advocate for clean, maintainable, and well-documented code.
 - 📫 Reach me at **pradyumna.p.6969@gmail.com**
+</div>
 
 ---
+
+<div style="animation: fadeIn 2s ease-in-out 3s forwards; opacity: 0;">
 
 ### Tech Stack:
 
@@ -32,7 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 #### Frameworks & Libraries:
@@ -46,7 +50,7 @@
 
 #### Cloud Platforms & DevOps:
 
-<div>
+<div style="animation: fadeIn 2s ease-in-out 4s forwards; opacity: 0;">
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/aws-s3-9fy4y5f02sp6fm0wxo9qj.png/aws-s3-toi4erj6v293ib57kdic73.png?_a=DATAdtfiZAA0" title="AWS S3" alt="AWS S3" width="40" height="40"/>&nbsp;
   <img src="https://files.svgcdn.io/logos/aws-ec2.png" title="AWS EC2" alt="AWS EC2" width="40" height="40"/>&nbsp;
@@ -58,7 +62,7 @@
 
 #### Databases:
 
-<div>
+<div style="animation: fadeIn 2s ease-in-out 5s forwards; opacity: 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
@@ -67,15 +71,16 @@
 
 #### Task Queues & Job Management:
 
-<div>
+<div style="animation: fadeIn 2s ease-in-out 6s forwards; opacity: 0;">
   <img src="https://user-images.githubusercontent.com/95200/143832033-32e868df-f3b0-4251-97fb-c64809a43d36.png" title="BullMQ" alt="BullMQ" width="115" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center" style="animation: fadeIn 2s ease-in-out 7s forwards; opacity: 0;">📊 GitHub Stats:</h3>
 
-<div align="center">
+<div align="center" style="animation: fadeIn 2s ease-in-out 8s forwards; opacity: 0;">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=voidgeek&show_icons=true&locale=en&layout=compact&theme=dark" 
        alt="Top Languages" style="margin: 10px;" />
@@ -101,3 +106,17 @@
        alt="Contribution Graph" style="margin: 10px;" />
 
 </div>
+
+<!-- Animation keyframes -->
+<style>
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
