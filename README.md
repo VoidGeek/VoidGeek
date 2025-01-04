@@ -16,7 +16,7 @@
 ### About Me:
 
 - 🚀 Aspiring backend developer, currently specializing in scalable systems, RESTful APIs, and microservices architectures.
-- 🌐 Learning NestJS (not Next.js) with GraphQL to build efficient and reliable backend solutions.
+- 🌐 Learning NestJS & Next.js with GraphQL & tRPC to build efficient and reliable backend solutions.
 - 🛠️ Enthusiastic about debugging and solving problems with a focus on optimization and performance.
 - 💬 Advocate for clean, maintainable, and well-documented code.
 - 📧 Reach me at **pradyumna.p.6969@gmail.com**
