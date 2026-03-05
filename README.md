@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradyumna Praveen</h1>
+<h1 align="center">Hi 👋, I'm Pradyumna</h1>
 <h3 align="center">Backend Developer | API Architect | Problem Solver</h3>
 
 <div align="center">
@@ -16,9 +16,7 @@
 ### About Me:
 
 - 🚀 Aspiring backend developer, currently specializing in scalable systems, RESTful APIs, and microservices architectures.
-- 🌐 Learning NestJS & Next.js with GraphQL & tRPC to build efficient and reliable backend solutions.
-- 🛠️ Enthusiastic about debugging and solving problems with a focus on optimization and performance.
-- 💬 Advocate for clean, maintainable, and well-documented code.
+- 🌐 Learning Python & NextJS to build efficient and reliable backend solutions.
 - 📧 Reach me at **pradyumna.p.6969@gmail.com**
 
 ---
